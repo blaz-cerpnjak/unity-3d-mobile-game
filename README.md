@@ -14,5 +14,3 @@ This project was developed using [Unity](https://unity.com/) and C#.
 
 ### Icon Author
 I do not own play button icon used in this project. The author is [Flat Icons](https://www.flaticon.com/premium-icon/play_3588455) from [Flaticon](https://www.flaticon.com/).
-
-## Game Logic

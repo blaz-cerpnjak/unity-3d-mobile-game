@@ -2,7 +2,7 @@
 
 ## Demo
 
-<img src="https://github.com/blaz-cerpnjak/unity-3d-mobile-game/blob/main/gameplay_demo.gif" width="25%"/>
+<img src="https://github.com/blaz-cerpnjak/unity-3d-mobile-game/blob/main/gameplay_demo.gif" width="50%"/>
 
 ## About
 I love learning and developing mobile apps and game. This is one of my first games developed with Unity.
